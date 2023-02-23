@@ -1,10 +1,10 @@
-# myPizza - Project Description <br>
+# MyPIzza - Project Description <br>
 
 ### About<br/>
 
-The website was created by Serhiy Paziuk for his portfolio. <br/>
+Welcome to our MyPIzza place, where every slice is a piece of heaven! Our pizzas are made with the freshest ingredients, from the dough to the toppings, and are cooked to perfection in a wood-fired oven. We offer a variety of toppings to suit every taste, from classic Margherita to adventurous combinations that will tantalize your taste buds. <br/>
 
-### Website : https://paziuk.github.io/Projects/Sites/MyPIzza/index.html<br/>
+### Link to the website you can find [here](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#my-projects)<br/>
 
 ## For creating were used<br/>
 
